@@ -7,8 +7,8 @@ Instead of testing every little thing, I'm going to target two areas for testing
 
 ## Testing Scripts:
 Code coverage
-> coverage run --source=. -m pytest 
-> coverage report
+> coverage run --source=. -m pytest  
+> coverage report  
 
 ## Resources
 [Flask Project Structure Example](https://hackersandslackers.com/flask-blueprints/)
